@@ -3,7 +3,7 @@
 This repository contains scripts used to analyze biosynthetic gene clusters (BGCs) from metagenome-assembled genomes (MAGs) of the Hatiba Mons hydrothermal vent system.
 
 Associated manuscript:  
-**Genetic insights into biosynthetic diversity and novelty in Red Sea hydrothermal vent microbiomes**
+**Genome-resolved insights into biosynthetic diversity and novelty in Red Sea hydrothermal vent microbiomes**
 
 ---
 
