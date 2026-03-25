@@ -136,12 +136,12 @@ Generates figures used in the manuscript.
 
 ---
 
-### 9. MiBIG compound annotation
+### 9. MIBiG compound annotation
 ```
 24_get_mibig_compounds.py
 24b_run_mibig_compounds.slurm
 ```
-Retrieves compound annotations for BGCs linked to MiBIG reference clusters.
+Retrieves compound annotations for BGCs linked to MIBiG reference clusters.
 
 ---
 
